@@ -4,7 +4,7 @@
 
 Tucker Salovaara
 Sept 20, 2015
-
+						Arduino Sports
 
 
 1. Who is it for?
@@ -13,7 +13,7 @@ Sept 20, 2015
 -8-14 years, Central Asia
 
 2. What is it for?
--It's a sports game for youth and kids to learn teamwork and basic physics about baseball, basketball, and American football.  It's a better version of Wii Sports.  It's an entertainment for kids and families to have better relationships.  It encourages physical activity and visual creativity.  It will help to reduce childhood obesity.
+-It's a sports game for youth and kids to learn teamwork and basic physics about baseball, basketball, and American football.  It's a better version of Wii Sports.  It's an entertainment for kids and families to have better relationships. It encourages physical activity and visual creativity.  It will help to reduce childhood obesity.
 
 3. When will it be used?
 	1.
@@ -29,6 +29,29 @@ Sept 20, 2015
 	This game will bring families together and build bonds in the northeastern United States.  It also will promote physical activity as opposed to activity on a computer or smartphone screen.  However, in Europe and Central Asia, the game will open new possibilities for young kids that will be interested in electronics someday.  Moreover, it will help Central Asia in terms of technology growth.  Europeans and Central Asians will be exposed to a “new” version of football.
 
 5. How does it work?
+
+Step-By-Step instructions for Baseball
+
+1) Put the band on the Bat
+2) Turn it on 
+3) User will see Rules of the game on the screen
+4) Hit the button to continue
+5) LED screen will display pitch (at random)
+6)countdown
+7) User tries to swing 
+8)Output Displays "Home Run" or "Strike"
+
+Step-By-Step instructions for Basketball
+
+1) Put the band on the Basketball
+2) Turn it on 
+3) User will see Rules of the game on the screen
+4) Hit the button to continue
+5) LED screen will display an image of a shot (at random)
+6) Countdown
+7) User makes a shooting motion
+8)Output Displays "Airball" or "Basket!"
+
 
 	1. this is a link to a game that I want to build off from. Backyard sports is a game that people can be active while having fun. My game will be the same except for the QR codes. https://www.youtube.com/watch?v=xNrnaMpoRdA
 	2. Here is my diagram: https://github.com/TSalovaara/MTEC-2250/blob/master/arduino%20sports%20-%20New%20Page-2.jpeg
