@@ -1,9 +1,0 @@
-Tucker Salovaara
-11/16/2015
-MTEC 2250
-Tutorial Page
-
-  The gyroscope determines the rotation of the x-, y-, and z-axes.  The variability of the outputs creates some
-  difficulty in reading, but an if else conditional statement will enable to user to receive a close to perfect
-  reaeding nonetheless.
-https://github.com/TSalovaara/MTEC-2250/blob/master/2893-thickbox.jpg
